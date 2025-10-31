@@ -1,0 +1,5 @@
+{
+  "blacklistedIPs": [],
+  "example": "192.168.1.1",
+  "note": "Add IP addresses to the blacklistedIPs array to block them from accessing the site"
+}
