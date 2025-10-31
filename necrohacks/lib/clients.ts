@@ -10,7 +10,7 @@ export interface Client {
 // Java Edition Clients
 export const javaTopClients: Client[] = [
   { name: "Doomsday Client", version: "1.8.9 - 1.21.8", description: "Ghost Client" },
-  { name: "LiquidBounce", version: "1.21.4" description: "Also Ghost" },
+  { name: "LiquidBounce", version: "1.21.4", description: "Also Ghost" },
   { name: "Meteor", version: "1.21.10", description: "Blatant idfk" },
 ]
 
